@@ -1,8 +1,8 @@
 # Discord-Bot
 
 
-A simple Discord Music Bot with many other features.
-You can listen to music and control the song in the format of a simple player with buttons accessed by react.
+A simple Discord Music Bot with many other features.\n
+You can listen to music and control the song in the format of a simple player with buttons accessed by react.\n
 You can set to see the latest values of your favorite currencies and how they change depending on an available range.
 You can be notified when your favorite streamer is live on twitch.
 You can also set it to tell you your daily horoscope.
