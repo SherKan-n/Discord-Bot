@@ -1,4 +1,4 @@
-# Discord-Bot (2021 - present)
+# Discord-Bot (2021 - [current year])
 
 
 🔵 A simple Discord Music Bot with many other features.<br><br>
