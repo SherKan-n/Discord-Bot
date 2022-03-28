@@ -1,6 +1,6 @@
 # Discord-Bot (2021 - now y)
 
-
+now y
 🔵 A simple Discord Music Bot with many other features.<br><br>
 
 🟣 You can listen to music and control the song in the format of a simple player with buttons accessed by react.<br>
