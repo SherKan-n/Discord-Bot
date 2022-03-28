@@ -1,4 +1,4 @@
-# Discord-Bot (2021 - date: "`r Sys.Date()`")
+# Discord-Bot (2021 - now y)
 
 
 🔵 A simple Discord Music Bot with many other features.<br><br>
